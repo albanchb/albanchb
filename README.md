@@ -27,7 +27,7 @@ Je suis un **développeur Full Stack** avec une forte passion pour la **nature**
 
 ## 🏅 **Mes activités GitHub**
 
-[![A2N's GitHub Activity](https://activity-graph.herokuapp.com/graph?username=albanchb&bg_color=000000&color=61DAFB&line=61DAFB&point=FFFFFF&area=true&area_color=000000)](https://github.com/albanchb)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=albanchb&theme=tokyonight)
 
 ---
 

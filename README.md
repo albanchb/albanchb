@@ -11,8 +11,10 @@ Je suis un **développeur Full Stack** avec une forte passion pour la **nature**
 ### 🎯 **Mes compétences**
 - **Langages** : HTML, CSS, JavaScript, PHP
 - **Bases de données** : SQL, MySQL, MongoDB
-- **Sécurité** : Pentesting, sécurité des applications web
-- **Outils** : Git, Docker, API REST, Node.js
+- **Optimisation** : Optimisation des performances PC (amélioration du système, gestion des ressources), optimisation réseau (réduction des latences, amélioration de la connectivité), SEO (référencement naturel, amélioration de la visibilité sur les moteurs de recherche)
+- **Sécurité** : Pentesting, sécurité des applications web, gestion des vulnérabilités
+- **Outils** : Git, Docker, Google Cloud, Suite JetBrains, WireShark, ProcessHacker, outils SEO (Google Analytics, Google Search Console)
+
 
 ---
 

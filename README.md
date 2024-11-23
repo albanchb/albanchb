@@ -1,4 +1,4 @@
-# 👨‍💻 **A2N - Développeur Full Stack** 🌱  
+# 👨‍💻 **A2N - Développeur Full Stack** 🌱   
 
 Bienvenue sur mon profil GitHub ! Je suis **A2N**, un développeur passionné par le **développement web**, le **pentesting**, et **l'innovation technologique**. Actuellement en première **CIEL** au lycée, je travaille en parallèle sur plusieurs projets passionnants et je cherche à acquérir de nouvelles compétences.
 

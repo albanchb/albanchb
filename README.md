@@ -42,6 +42,7 @@ Je suis un **développeur Full Stack** avec une forte passion pour la **nature**
 ## 🔗 **Me retrouver**
 - [Instagram](https://www.instagram.com/julesbrd_/)
 - [RootMe](https://www.root-me.org)
+- [E-mail : contact@bwyebfr](mailto:contact@bwyebfr)
 
 ---
 
